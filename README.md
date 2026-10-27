@@ -8,6 +8,8 @@ Software Engineering project, AIUB – Spring 25-26, Section A, Group G6.
 
 > This repository contains the **project report only** (no source code).
 
+**Semester:** Spring 2025-2026
+
 ## Report
 
 [SoftwareProjectReport.pdf](SoftwareProjectReport.pdf) – 42 pages, written in LaTeX.
